@@ -47,6 +47,12 @@ Project/
 - **DBeaver** (SQL editor and data import)
 - **Power BI Desktop** (dashboard)
 
+## Database Overview
+
+The SQLite database contains 7 tables after import and cleanup:
+
+![Database tables](screenshots/sql_tables.png)
+
 ## Data Cleaning Steps
 
 Full script: `sql/olist_cleaning.sql`
